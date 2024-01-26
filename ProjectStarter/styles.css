@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.txt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: .7rem;
+    background: #9b9292;
+    color: #000;
+    height: 100%;
+    width: 100%;
+}
